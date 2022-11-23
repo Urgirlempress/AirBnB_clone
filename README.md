@@ -1,7 +1,7 @@
 AirBnB Clone - The Console.
 
-Synopsis
-The Airbnb clone project for which we are creating a copy of the Airbnb. Only some features will be implemented and will be listed below once completed.
+Description:
+The Alx AirBnB Clone is all about remaking a bit of a copy of the real website. Only some features will be implemented and will be listed below once completed.
 
 Features
 Command Interpreter
