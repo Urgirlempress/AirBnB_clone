@@ -64,7 +64,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- AUTHORS -->
 ## Authors
 
-Your Name - [Empress](https://twitter.com/Emp_Ress) - stephanieklein734@gmail.com
+[Empress](https://twitter.com/Emp_Ress) - stephanieklein734@gmail.com
 
 
 <!-- FEATURES -->
