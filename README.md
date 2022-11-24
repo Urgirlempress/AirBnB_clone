@@ -1,4 +1,4 @@
-# AirBnB Clone Project - The Console
+<!-- AirBnB CLONE PROJECT - THE CONSOLE -->
 
 
 <!-- PROJECT SHIELDS -->
@@ -22,33 +22,21 @@ The AirBnB Clone Project - The Console is the first step in creating a copy of t
 
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
 <!-- WEB STATIC -->
 ## Web Static
 
-learn HTML/CSS
-create the HTML of your application
-create template of each object
-  ```
+1. learn HTML/CSS.
+2. create the HTML of your application.
+3. create template of each object.
 
-### Installation
+<!-- INSTALLATION -->
+## Installation
 
-_ To launch the console application in interactive mode simply run: console.py
-
-or to use the non-interactive mode run: echo "your-command-goes-here" | ./console.py
+* First of all, you'll have to git clone the repo by using this command: git clone https://github.com/Urgirlempress/AirBnB_clone.git
+* Then, to launch the console application in interactive mode simply run: console.py
+* or to use the non-interactive mode run: echo "your-command-goes-here" | ./console.py
 
    ```
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
 
 
 <!-- ROADMAP -->
@@ -64,12 +52,11 @@ or to use the non-interactive mode run: echo "your-command-goes-here" | ./consol
 
 See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+   ```
 
 
-
-<!-- CONTRIBUTING -->
-## Contributing
+<!-- CONTRIBUTIONS -->
+## Contributions
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
@@ -82,8 +69,6 @@ Don't forget to give the project a star! Thanks again!
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 <!-- LICENSE -->
@@ -91,46 +76,71 @@ Don't forget to give the project a star! Thanks again!
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
+<!-- AUTHORS -->
+## Authors
 
-<!-- CONTACT -->
-## Contact
+Your Name - [Empress](https://twitter.com/Emp_Ress) - stephanieklein734@gmail.com
 
-Your Name - [@Emp_Ress](https://twitter.com/Emp_Ress) - stephanieklein734@gmail.com
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<!-- FEATURES -->
+## Features
 
-* <p Features
-
-<p Command Interpreter
-<p Description
+## Command Interpreter
 
 The Command Interpreter is used to manage the whole application's functionality from the command line, such as:
 
-Create a new object.
-Retrieve an object from a file, database, etc.
-Execute operation on objects. e.g. Count, compute statistics, etc.
-Update object's attributes.
-Destroy an object.
-Usage
+1. Create a new object.
+2. Retrieve an object from a file, database, etc.
+3. Execute operation on objects. e.g. Count, compute statistics, etc.
+4. Update object's attributes.
+5. Destroy an object.
 
 
-Commands, Description & Usage:
-help or ? - Displays the documented commands - help.
-quit - Exits the program - quit.
-EOF - Ends the program. Used when files are passed into the program - N/A
-create - Creates a new instance of the <class_name>. Creates a Json file with the object representation, and prints the id of created object - create <class_name>
-show - Prints the string representation of an instance based on the class name and id - show <class_name class_id>
-destroy - Deletes and instance base on the class name and id - destroy <class_name class_id>
-all - Prints all string representation of all instances based or not on the class name - all or all <class_name class_id>
-update - Updates an instance based on the class name and id by adding or updating attribute - update <class_name class_id key value>
+<!-- COMMANDS -->
+## Commands
 
-#Tests
-If you wish to run at the test for this application all of the test are located under the test/ folder and can execute all of them by simply running:
+* help or ?.
+* quit.
+* EOF.
+* create.
+* show.
+* destroy.
+* all.
+* update.
+
+<!-- DESCRIPTIONS -->
+## Descriptions
+
+* help or ? displays the documented commands.
+* quit exits the program.
+* EOF ends the program. It is used when files are passed into the program.
+* create creates a new instance of the <class_name>. Creates a Json file with the object representation, and prints the id of created object.
+* show prints the string representation of an instance based on the class name and id.
+* destroy deletes and instance base on the class name and id.
+* all prints all string representation of all instances based or not on the class name.
+* update updates an instance based on the class name and id by adding or updating attribute.
+
+<!-- USAGE -->
+## Usage
+
+* help or ? - helps.
+* quit - quits.
+* EOF - N/A.
+* create - create <class_name>
+* show - show <class_name class_id>
+* destroy - destroy <class_name class_id>
+* all - all or all <class_name class_id>
+* update - update <class_name class_id key value>
+
+<!-- TESTS -->
+## Tests
+
+If you wish to run the test for this application, all of the tests are located under the test/ folder. You can execute all of them by simply running:
 
 python3 -m unittest discover tests
 
 from the root directory.
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
