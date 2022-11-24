@@ -1,7 +1,6 @@
 # AirBnB Clone Project - The Console
 
-The AirBnB Clone Project - The Console is the first step in creating a copy of the [AirBnB-website] 
-(https://alx-intranet.hbtn.io/rltoken/m8g02HcD2ovrl_K-zulYBw/) using the interactive Command Interpreter. 
+The AirBnB Clone Project - The Console is the first step in creating a copy of the [AirBnB website](https://alx-intranet.hbtn.io/rltoken/m8g02HcD2ovrl_K-zulYBw/) using the interactive Command Interpreter. 
 
 #Features
 
