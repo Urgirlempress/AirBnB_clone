@@ -1,11 +1,13 @@
-AirBnB Clone - The Console.
+#AirBnB Clone - The Console.
 
-Description:
+#Description:
 The Alx AirBnB Clone is all about remaking a bit of a copy of the real website. Only some features will be implemented and will be listed below once completed.
 
-Features
+#Features
+
 Command Interpreter
-Description
+#Description
+
 The Command Interpreter is used to manage the whole application's functionality from the command line, such as:
 
 Crete a new object.
@@ -29,12 +31,13 @@ destroy - Deletes and instance base on the class name and id - destroy <class_na
 all - Prints all string representation of all instances based or not on the class name - all or all <class_name class_id>
 update - Updates an instance based on the class name and id by adding or updating attribute - update <class_name class_id key value>
 
-Tests
+#Tests
 If you wish to run at the test for this application all of the test are located under the test/ folder and can execute all of them by simply running:
 
 python3 -m unittest discover tests
 
 from the root directory.
 
-Authors:
+#Authors:
+Bennet Ukoh - bennetukoh@gmail.com
 Empress - stephanieklein734@gmail.com
