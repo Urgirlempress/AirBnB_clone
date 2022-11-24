@@ -1,7 +1,8 @@
-#AirBnB Clone - The Console.
+# AirBnB Clone Project - The Console
 
-#Description:
-The Alx AirBnB Clone is all about remaking a bit of a copy of the real website. Only some features will be implemented and will be listed below once completed.
+# Description of the project.
+The AirBnB Clone Project - The Console is the first step in creating a copy of the [AirBnB website] 
+(https://alx-intranet.hbtn.io/rltoken/m8g02HcD2ovrl_K-zulYBw).
 
 #Features
 
