@@ -1,5 +1,6 @@
 # AirBnB Clone Project - The Console
 
+<<<<<<< HEAD
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
 <!--
@@ -225,6 +226,9 @@ Your Name - [@Emp_Ress](https://twitter.com/Emp_Ress) - stephanieklein734@gmail.
 <!-- DESCRIPTION OF THE PROJECT  -->
 The AirBnB Clone Project - The Console is the first step in creating a copy of the [AirBnB website] 
 (https://alx-intranet.hbtn.io/rltoken/m8g02HcD2ovrl_K-zulYBw).
+=======
+The AirBnB Clone Project - The Console is the first step in creating a copy of the [AirBnB website](https://alx-intranet.hbtn.io/rltoken/m8g02HcD2ovrl_K-zulYBw/) using the interactive Command Interpreter. 
+>>>>>>> 1e8701d569319cef8fbd0f68123eaf2c211902af
 
 * <p Features
 
