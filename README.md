@@ -57,7 +57,7 @@ Don't forget to give the project a star! Thanks again!
 ## Authors
 
 [Empress](https://twitter.com/Emp_Ress) - stephanieklein734@gmail.com
-
+[Bennet](https://twitter.com/Bennet) - bennetukoh@gmail.com
 
 <!-- FEATURES -->
 ## Features
